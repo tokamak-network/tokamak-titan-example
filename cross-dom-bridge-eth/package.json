@@ -1,0 +1,13 @@
+{
+  "name": "cross-dom-bridge-eth",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@tokamak-network/titan-sdk": "0.0.2",
+    "dotenv": "^16.0.0"
+  },
+  "scripts": {
+    "script": "node index.js"
+  },
+  "license": "MIT"
+}
