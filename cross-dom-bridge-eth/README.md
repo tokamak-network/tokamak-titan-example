@@ -46,7 +46,7 @@ depositETH took 31.657 seconds
 Withdraw ETH
 On L1:950528010 Gwei    On L2:584202733 Gwei
 Transaction hash (on L2): 0x5afb336f4d5ed0273c5b79f141a8c3104b37b74125968d72d1a2c0efcbe68714
-        For more information: https://goerli.explorer.tokamak.network/tx/0x5afb336f4d5ed0273c5b79f141a8c3104b37b74125968d72d1a2c0efcbe68714
+        For more information: https://explorer.titan-goerli.tokamak.network/tx/0x5afb336f4d5ed0273c5b79f141a8c3104b37b74125968d72d1a2c0efcbe68714
 In the challenge period, waiting for status READY_FOR_RELAY
 Time so far 1.796 seconds
 Ready for relay, finalizing message now

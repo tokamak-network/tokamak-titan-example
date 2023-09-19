@@ -87,7 +87,7 @@ const withdrawETH = async () => {
   // 0.000001 ETH
   const response = await crossChainMessenger.withdrawETH(1000n * gwei)
   console.log(`Transaction hash (on L2): ${response.hash}`)
-  console.log(`\tFor more information: https://goerli.explorer.tokamak.network/tx/${response.hash}`)
+  console.log(`\tFor more information: https://explorer.titan-goerli.tokamak.network/tx/${response.hash}`)
   await response.wait()
 
   console.log("In the challenge period, waiting for status READY_FOR_RELAY")
