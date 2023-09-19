@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
-    "@tokamak-network/tokamak-layer2-sdk": "0.0.4",
+    "@tokamak-network/titan-sdk": "0.0.5",
     "dotenv": "^16.0.0"
   },
   "scripts": {
