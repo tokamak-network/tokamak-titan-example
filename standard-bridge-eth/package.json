@@ -9,7 +9,7 @@
     "withdraw": "node scripts/withdrawETH.js"
   },
   "devDependencies": {
-    "@tokamak-network/titan-contracts": "0.0.4",
+    "@tokamak-network/titan-contracts": "0.0.5",
     "dotenv": "^16.1.4",
     "ethers": "^5.7"
   }
