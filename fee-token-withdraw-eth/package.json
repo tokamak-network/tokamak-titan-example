@@ -1,0 +1,15 @@
+{
+  "name": "standard-bridge-eth",
+  "version": "0.0.1",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "echo \"*** Use 'yarn deposit' or 'yarn withdraw'\"",
+    "withdraw": "node scripts/withdrawETH.js"
+  },
+  "devDependencies": {
+    "@tokamak-network/titan-contracts": "0.0.5",
+    "dotenv": "^16.1.4",
+    "ethers": "^5.7"
+  }
+}
